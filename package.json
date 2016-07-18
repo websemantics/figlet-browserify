@@ -29,7 +29,8 @@
     "url": "https://github.com/websemantics/figlet-browserify/issues"
   },
   "dependencies": {
-    "figlet": "*"
+    "figlet": "*",
+    "json3": "*"
   },
   "homepage": "https://github.com/websemantics/figlet-browserify#readme"
 }
