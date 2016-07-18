@@ -1,0 +1,31 @@
+{
+  "name": "audiz",
+  "version": "0.1.0",
+  "description": "Make your audio files shareable on your favorite social networks.",
+  "main": "audiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websemantics/audiz.git"
+  },
+  "keywords": [
+    "audio",
+    "visualizer",
+    "svg",
+    "video"
+  ],
+  "author": {
+    "name": "Adnan M.Sagar, PhD.",
+    "email": "adnan@websemantics.ca"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/websemantics/audiz/issues"
+  },
+  "dependencies": {
+    "jquery": "*"
+  },
+  "homepage": "https://github.com/websemantics/audiz#readme"
+}
