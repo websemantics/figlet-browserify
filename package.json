@@ -1,6 +1,6 @@
 {
   "name": "figlet-browserify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Figlet.js with Browserify",
   "main": "index.js",
   "scripts": {
